@@ -1,1 +1,1 @@
-# todolist todo list built with django 
+# todolist built with django 
